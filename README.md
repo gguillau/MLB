@@ -1,2 +1,2 @@
 # MLB
-Real data science problem from the gold mining sector. This project is provided by Zyfra.
+Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
