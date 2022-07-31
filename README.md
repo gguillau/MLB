@@ -1,5 +1,12 @@
-# MLB
-Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+# Machine Learning in Business
+
+## Background
+This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
+
+https://practicum.yandex.com/data-scientist
+
+## Objective
+You work for the OilyGiant mining company. You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
 
 ## Data description
 Geological exploration data for the three regions are stored in files: 
