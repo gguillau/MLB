@@ -1,5 +1,5 @@
 # MLB
-Build a Linear Regression model that will help to pick the region with the highest profit margin.
+Build a Linear Regression model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
 
 ## Data description
 Geological exploration data for the three regions are stored in files: 
